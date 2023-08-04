@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Huawei\\Desktop\\Acme_Auto_Servicing_Center\\Acme_Auto_Servicing_Center\\Acme_Auto_Servicing_Center.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Huawei\\Desktop\\Acme_Auto_Servicing_Center\\Acme_Auto_Servicing_Center\\Acme_Auto_Servicing_Center.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Huawei\\Desktop\\Acme_Auto_Servicing_Center\\Acme_Auto_Servicing_Center\\Acme_Auto_Servicing_Center.vbproj",
+        "projectName": "Acme_Auto_Servicing_Center",
+        "projectPath": "C:\\Users\\Huawei\\Desktop\\Acme_Auto_Servicing_Center\\Acme_Auto_Servicing_Center\\Acme_Auto_Servicing_Center.vbproj",
+        "packagesPath": "C:\\Users\\Huawei\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Huawei\\Desktop\\Acme_Auto_Servicing_Center\\Acme_Auto_Servicing_Center\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Huawei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

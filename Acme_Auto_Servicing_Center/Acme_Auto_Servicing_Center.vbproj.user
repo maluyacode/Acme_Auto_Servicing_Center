@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>true</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Customer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="History.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MachineProblem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MakeService.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageCars.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageCus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mechanics.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrdersParts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Parts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Queries.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reciept.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ServiceOffer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Suppliers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="My Project\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
